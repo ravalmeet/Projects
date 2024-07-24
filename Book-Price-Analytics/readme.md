@@ -6,7 +6,7 @@ This repository contains code for predicting book prices based on various featur
 ## Dataset
 The dataset used in this project includes information about book categories, paper types, and their corresponding prices. You can access and download the dataset from Kaggle:
 
-- **Dataset Link**: [Kaggle Dataset](https://www.kaggle.com/dataset/your-dataset-link)
+- **Dataset Link**: [Kaggle Dataset](https://www.kaggle.com/datasets/ravalmeett/book-pricing-dataset)
 
 ### About the Dataset
 - **Features**:
